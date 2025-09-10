@@ -20,7 +20,16 @@ The app uses **React Context API** for state management to ensure a smooth and s
 
 ## 📸 Screenshots
 
-You can showcase your app by adding screenshots here.  
-For example:
+### ▶️ Start Screen
+![Start Screen](./public/screenshots/start.png)
 
-![Todo App Screenshot](./public/screenshots/todo-app.png)
+### 📝 Pending Tasks
+![Pending Tasks](./public/screenshots/pending-tasks.png)
+
+### ✅ Completed Tasks
+![Completed Tasks](./public/screenshots/completed-tasks.png)
+
+### 🚫 Empty State
+![Empty State](./public/screenshots/empty-tasks.png)
+
+
